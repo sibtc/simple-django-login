@@ -2,7 +2,6 @@
 
 Example created for the blog post [How to Use Django's Built-in Login System][blog-post] at [simpleisbetterthancomplex.com][blog].
 
-***
 
 ## How do I run this project locally?
 
