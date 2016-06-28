@@ -1,6 +1,6 @@
-# simple-django-login
+# Simple Django Login
 
-Example created for a blog post at [blog-post][simpleisbetterthancomplex.com]
+Example created for the blog post [How to Use Django's Built-in Login System][blog-post] at [simpleisbetterthancomplex.com][blog].
 
 ***
 
